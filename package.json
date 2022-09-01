@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "history": "https://github.com/ryd0rz/history.git#main",
-    "react-router": "^4.0.0"
+    "react-router": "https://github.com/ryd0rz/react-router.git#main"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
